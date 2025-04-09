@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\App2_MediaAluno\App2_MediaAluno\obj\Debug\net8.0-windows\App2_MediaAluno.Form1.resources
+C:\Users\Lenovo\source\repos\App2_MediaAluno\App2_MediaAluno\obj\Debug\net8.0-windows\App2_MediaAluno.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\App2_MediaAluno\App2_MediaAluno\obj\Debug\net8.0-windows\App2_MediaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\App2_MediaAluno\App2_MediaAluno\obj\Debug\net8.0-windows\App2_MediaAluno.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\App2_MediaAluno\App2_MediaAluno\obj\Debug\net8.0-windows\App2_MediaAluno.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\App2_MediaAluno\App2_MediaAluno\obj\Debug\net8.0-windows\App2_MediaAluno.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\App2_MediaAluno\App2_MediaAluno\bin\Debug\net8.0-windows\App2_MediaAluno.exe
+C:\Users\Lenovo\source\repos\App2_MediaAluno\App2_MediaAluno\bin\Debug\net8.0-windows\App2_MediaAluno.deps.json
+C:\Users\Lenovo\source\repos\App2_MediaAluno\App2_MediaAluno\bin\Debug\net8.0-windows\App2_MediaAluno.runtimeconfig.json
+C:\Users\Lenovo\source\repos\App2_MediaAluno\App2_MediaAluno\bin\Debug\net8.0-windows\App2_MediaAluno.dll
+C:\Users\Lenovo\source\repos\App2_MediaAluno\App2_MediaAluno\bin\Debug\net8.0-windows\App2_MediaAluno.pdb
+C:\Users\Lenovo\source\repos\App2_MediaAluno\App2_MediaAluno\obj\Debug\net8.0-windows\App2_MediaAluno.dll
+C:\Users\Lenovo\source\repos\App2_MediaAluno\App2_MediaAluno\obj\Debug\net8.0-windows\refint\App2_MediaAluno.dll
+C:\Users\Lenovo\source\repos\App2_MediaAluno\App2_MediaAluno\obj\Debug\net8.0-windows\App2_MediaAluno.pdb
+C:\Users\Lenovo\source\repos\App2_MediaAluno\App2_MediaAluno\obj\Debug\net8.0-windows\App2_MediaAluno.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\App2_MediaAluno\App2_MediaAluno\obj\Debug\net8.0-windows\ref\App2_MediaAluno.dll
